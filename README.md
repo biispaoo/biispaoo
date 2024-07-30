@@ -1,16 +1,15 @@
-## Hi there 👋
+## bem vindos ao perfil da bispo!!🧍‍♀️
 
-<!--
-**biispaoo/biispaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Maria Eduarda
 
-Here are some ideas to get you started:
+•estou estudando na alura
+•sou aluna do 1°ano C
+•utilizo esse espaço para compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***entrar em contato comigo📫
+
+00001142619011sp@al.educacao.sp.gov.br
+
+
+
+![](https://media.tenor.com/RKATceXRp-QAAAAM/csmd-concrete-surfer.gif)
